@@ -1,0 +1,49 @@
+.language {
+  display: inline;
+}
+
+.heading {
+  font-size: 20px;
+}
+
+#source {
+  width: 100% !important;
+  background: #263238;
+  color: white;
+  height: 60vh;
+  font-size: 15px;
+  resize: none;
+}
+
+#input {
+  background: #263238;
+  color: white;
+  width: 48.4%;
+  height: 17vh;
+  resize: none;
+  font-size: 17px;
+}
+
+#output {
+  background: #263238;
+  color: white;
+  width: 50%;
+  height: 80%;
+  position: fixed;
+  top: 11.8%;
+  font-size: 18px;
+  right: 0;
+  resize: none;
+}
+
+.language {
+  width: 150px;
+}
+
+.badge {
+  background: #24343c;
+}
+
+.col-5 {
+  right: 1.2%;
+}
